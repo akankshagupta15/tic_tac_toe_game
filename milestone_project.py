@@ -1,5 +1,5 @@
 def display_board(board):
-#comment added for git commit
+#modified comment
     #print('   |   |')
     print(' ' + board[7] + ' | '  + board[8] + ' | ' + board[9])
     #print('   |   |')
